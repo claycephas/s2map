@@ -19,3 +19,7 @@ http-server
 *.so.*
 
 *.pyc
+
+*.swp
+venv/
+
